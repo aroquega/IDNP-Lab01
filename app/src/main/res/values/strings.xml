@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registro Epis</string>
+    <string name="registration_form_title">Formulario de Registro</string>
+    <string name="login_form_title">Inicio de Sesión</string>
+    <string name="lastname_label">Apellidos</string>
+    <string name="firstname_label">Nombres</string>
+    <string name="cui_label">CUI</string>
+    <string name="password_label">Contraseña</string>
+    <string name="password_confirmation_label">Confirme su Contraseña</string>
+    <string name="school_label">Escuela</string>
+    <string name="terms_and_conditions_label">Acepte los términos y condiciones</string>
+    <string name="login_button_text">Iniciar Sesión</string>
+    <string name="signup_button_text">Registrarse</string>
+    <string name="welcome_text">Bienvenido, la aplicación está en construcción.</string>
+</resources>
